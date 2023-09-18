@@ -4,7 +4,7 @@ https://drive.google.com/file/d/1gKRCs4vb2hr8NyUmLhwLpPraisnODhm8/view?usp=shari
 ## Business Understanding 
 The Global video streaming market is worth $95bn as
 of 2023.Changes in consumer behavior, technological advancements, and the proliferation of high-speed internet has seen a rise of numerous digital streaming platforms.
-With the vast amount of content available, users often find it challenging to discover movies that align with their preferences. This leads to decision paralysis, where users spend more time searching for content than actually consuming it. ViewHapa, a streaming platform faces the challenge of providing personalized movie recommendations to its users, ensuring they spend more time watching and less time searching, thereby increasing user engagement and satisfaction.This project aims to build a reliable personal recommendation system for use by the patrons of ViewHapa.
+With the vast amount of content available, users often find it challenging to discover movies that align with their preferences. This leads to decision paralysis, where users spend more time searching for content than actually consuming it. ViewHapa, a streaming platform faces the challenge of providing personalized movie recommendations to its users, ensuring they spend more time watching and less time searching, thereby increasing user engagement and satisfaction consequentially increasing their revenue.This project aims to build a reliable personal recommendation system for use by the patrons of ViewHapa.
 
 ## Problem Statement 
 How can we provide personalized movie recommendations to
@@ -58,5 +58,5 @@ Feedback Loop Integration: Consider integrating a feedback loop where users can 
 
 Expand Dataset: As the platform grows, consider expanding the dataset to include more diverse movies and user interactions. A richer dataset can provide more nuanced insights and improve the recommendation quality.
 
-By following these recommendations, the company can ensure a state-of-the-art recommendation system that not only enhances user satisfaction but also drives platform engagement.
+By following these recommendations, ViewHapa can ensure a recommendation system that not only enhances user satisfaction but also drives platform engagement.
 
