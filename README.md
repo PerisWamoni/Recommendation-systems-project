@@ -18,6 +18,9 @@ Entries: 100,836; Users: 610; Movies: 9,724.
 Ratings: 0.5 to 5, majority between 3 and 4.
 
 ## Exploratory Data Analysis 
+![Timestamp analysis](images/timestamp.png)
+![Average ratings distribution](images/avg ratings.png)
+
 Key visualisations showed that:
 
 -Most movies have average to slightly above-average ratings.
