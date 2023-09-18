@@ -3,13 +3,8 @@ https://drive.google.com/file/d/1gKRCs4vb2hr8NyUmLhwLpPraisnODhm8/view?usp=shari
 
 ## Business Understanding 
 The Global video streaming market is worth $95bn as
-of 2023.
-Changes in consumer behavior, technological
-advancements, and the proliferation of high-
-speed internet has seen a rise of numerous
-digital streaming platforms.
-
-With the vast amount of content available, users often find it challenging to discover movies that align with their preferences. This leads to decision paralysis, where users spend more time searching for content than actually consuming it. ViewHapa, a streaming platform faces the challenge of providing personalized movie recommendations to its users, ensuring they spend more time watching and less time searching, thereby increasing user engagement and satisfaction.
+of 2023.Changes in consumer behavior, technological advancements, and the proliferation of high-speed internet has seen a rise of numerous digital streaming platforms.
+With the vast amount of content available, users often find it challenging to discover movies that align with their preferences. This leads to decision paralysis, where users spend more time searching for content than actually consuming it. ViewHapa, a streaming platform faces the challenge of providing personalized movie recommendations to its users, ensuring they spend more time watching and less time searching, thereby increasing user engagement and satisfaction.This project aims to build a reliable personal recommendation system for use by the patrons of ViewHapa.
 
 ## Problem Statement 
 How can we provide personalized movie recommendations to
