@@ -19,7 +19,8 @@ Ratings: 0.5 to 5, majority between 3 and 4.
 
 ## Exploratory Data Analysis 
 ![Timestamp analysis](images/timestamp.png)
-![Average ratings distribution](images/avg ratings.png)
+
+![Average ratings distribution](images/avgratings.png)
 
 Key visualisations showed that:
 
